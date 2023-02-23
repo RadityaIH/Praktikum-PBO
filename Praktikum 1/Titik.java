@@ -10,12 +10,12 @@ class Titik {
 	static int counterTitik;
 
 	Titik(){
-	  counterTitik++;	
+		counterTitik++;	
 	}
 
 	Titik(Double x, Double y){
 		absis = x;
-    ordinat = y;
+    		ordinat = y;
 		counterTitik++;
 	}
 
