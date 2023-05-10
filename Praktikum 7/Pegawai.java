@@ -7,8 +7,8 @@ public class Pegawai{
     protected String nama;
     protected int gajiPokok = 5000000;
 
-    public void setNama(String name){
-        nama = name;
+    public void setNama(String nama){
+        nama = nama;
     }
 
     public void tampilData(){
