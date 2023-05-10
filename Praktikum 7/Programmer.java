@@ -6,8 +6,8 @@
 public class Programmer extends Pegawai{
     private int bonus = 450000;
 
-    public Programmer(String name){
-        nama = name;
+    public Programmer(String nama){
+        nama = nama;
     }
 
     public void tampilData(){
