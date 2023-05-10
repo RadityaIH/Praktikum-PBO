@@ -6,8 +6,8 @@
 public class Manajer extends Pegawai{
     private int tunjangan = 700000;
 
-    public Manajer(String name){
-        nama = name;
+    public Manajer(String nama){
+        nama = nama;
     }
 
     public void tampilData(){
