@@ -2,6 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 /**
  * File: LambdaHashmap.java
+ * Nama: Raditya Ilham Hastoro
  * Deskripsi: Implementasi Lambda pada Hashmap, digunakan sebagai parameter pada method
  */
 
